@@ -1,0 +1,9 @@
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp1.1\DemoAPI.deps.json
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp1.1\DemoAPI.runtimeconfig.json
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp1.1\DemoAPI.runtimeconfig.dev.json
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp1.1\DemoAPI.dll
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\bin\Debug\netcoreapp1.1\DemoAPI.pdb
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp1.1\DemoAPI.csprojResolveAssemblyReference.cache
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp1.1\DemoAPI.AssemblyInfo.cs
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp1.1\DemoAPI.dll
+c:\users\lifa\documents\visual studio 2017\Projects\DemoAPI\DemoAPI\obj\Debug\netcoreapp1.1\DemoAPI.pdb
